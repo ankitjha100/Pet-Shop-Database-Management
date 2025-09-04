@@ -7,6 +7,6 @@
 $email = $_POST["username"];
 $pass = $_POST["password"];
 
-if($email=='pavan'&& $pass=='chikka1998')
+if($email=='ankit'&& $pass=='jha1516')
 echo "Connected successfully";
 ?>
