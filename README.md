@@ -30,7 +30,16 @@ It is designed as a mini-project for learning purposes, helping beginners unders
 - MySQL installed  
 - Any modern browser  
 
-### Setup Instructions
-1. Clone this repository or download the ZIP.  
-   ```bash
-   git clone https://github.com/pavanchikkanna/pet_shop.git
+# How to Run ?
+ 
+ 1. Download the project
+
+ 2. create a new database called "petshop_management" in    MySQL and import petshop_management.sql 
+
+ 3. change the user and password for db connection  in every php file with respect to the server you are using
+
+ 4. login page : Username ="abcd" 
+                 password =123
+    
+     
+Thank you  :smiley:   
